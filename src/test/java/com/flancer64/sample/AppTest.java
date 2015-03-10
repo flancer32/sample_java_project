@@ -2,7 +2,7 @@ package com.flancer64.sample;
 
 import org.testng.annotations.Test;
 
-import com.flancer64.sample.App;
+import com.flancer32.sample.App;
 
 import static org.testng.Assert.assertTrue;
 

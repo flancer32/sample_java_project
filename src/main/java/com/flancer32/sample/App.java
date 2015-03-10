@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.flancer64.sample;
+package com.flancer32.sample;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -2,13 +2,14 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.sample</groupId>
-	<artifactId>sample_java_project</artifactId>
+	<groupId>com.flancer32.sample</groupId>
+	<artifactId>project</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
 
-	<name>sample_java_project</name>
-	<description>Sample Project</description>
+	<name>Simple Java project</name>
+	<description>Simple Java project with maven, tests and logging.</description>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
@@ -25,12 +26,6 @@
 			<groupId>ch.qos.logback</groupId>
 			<artifactId>logback-classic</artifactId>
 			<version>1.1.2</version>
-		</dependency>
-		<!-- SLF4J -->
-		<dependency>
-			<groupId>org.slf4j</groupId>
-			<artifactId>jcl-over-slf4j</artifactId>
-			<version>1.7.10</version>
 		</dependency>
 	</dependencies>
 
