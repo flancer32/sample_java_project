@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- debug="true|false" - http://logback.qos.ch/manual/configuration.html#automaticStatusPrinting -->
+<!-- 
+    Logging configuration  
+-->
 <configuration debug="false">
+<!-- debug="true|false" - http://logback.qos.ch/manual/configuration.html#automaticStatusPrinting -->
 
     <!-- 
 	    http://logback.qos.ch/manual/appenders.html 
